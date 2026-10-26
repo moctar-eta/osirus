@@ -9,5 +9,9 @@ int main() {
     } else {
         cout << "This condition is never true." << endl;
     }
+    int a=13;
+    if(a>10){
+        cout<<"a is greater than 10"<<endl;
+    cout<<a;
     return 0;
 }
